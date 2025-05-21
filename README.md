@@ -2,7 +2,7 @@
 I'm currently looking for software engineering job<br>
 GSSoC'24<br>
 I'm currently learning Nextjs, Advance Android development, Machine learning, Deep learning
-
+My Portfolio - https://artigaund-portfolio.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artigaund/) 
