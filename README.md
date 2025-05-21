@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently looking for software engineering job<br>
 GSSoC'24<br>
-I'm currently learning Nextjs, Advance Android development, Machine learning, Deep learning
+I'm currently learning Nextjs, Advance Android development, Machine learning, Deep learning <br>
 My Portfolio - https://artigaund-portfolio.vercel.app/
 
 ## 🌐 Socials:
